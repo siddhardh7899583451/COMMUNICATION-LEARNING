@@ -1,0 +1,35 @@
+Exercise 1 - Razor-Razorblade Model
+Exercise: You are the CEO of Gillette in 1950. Your task is to prepare a 3-minute pitch that explains how the Razor-Razorblade Model can solve the 
+problem.
+
+-------------------------------------------------------------------------------------------------------------------------------------------- 
+3-Minute Pitch: Razor–Razorblade Model (Gillette, 1950)
+
+Ladies and gentlemen,
+
+In The changing times, our challenge is simple but critical: how do we make shaving affordable for every man, while building a profitable and sustainable business for Gillette?
+
+The answer lies in what we call the Razor–Razorblade Model.
+
+Instead of treating the razor as a one-time purchase, we have redesigned shaving into a long-term relationship with the customer. We sell the razor handle at a very low price, sometimes close to cost, so that every man can easily adopt our product. Once he owns a Gillette razor, he naturally returns to us to buy replacement blades, which are consumables and need to be purchased regularly.
+
+This model solves three major problems.
+
+First, mass adoption.
+By lowering the upfront cost of the razor, we remove the biggest barrier to entry. Millions of men can afford a Gillette razor, making us the default choice for daily grooming and the leader of the industry
+
+Second, recurring revenue.
+While the handle is bought once, blades are bought repeatedly. This creates a steady, predictable stream of income that allows us to invest in better manufacturing, sharper blades, and stronger distribution.
+
+Third, customer lock-in.
+Our blades are specifically designed to fit Gillette razors. Once a customer chooses our system, switching becomes inconvenient. This strengthens brand loyalty and protects us from competitors.
+
+Beyond pricing, we continuously improve blade quality—making them safer, sharper, and longer-lasting. These incremental innovations justify repeat purchases and reinforce trust in the Gillette name.
+
+In short, the Razor–Razorblade Model transforms shaving from a product sale into a lifetime value business. It aligns customer convenience with company profitability.
+
+By giving away the razor, we don’t lose money—we earn loyalty, repeat purchases, and market leadership.
+
+That is how Gillette wins today—and for decades to come.
+
+Thank you.
