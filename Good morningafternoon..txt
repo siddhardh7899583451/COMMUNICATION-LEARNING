@@ -1,0 +1,19 @@
+Good morning/afternoon.
+
+My name is Siddhardh Kuncha, and I am a recent graduate in Computer Science & Engineering from PES University, class of 2025.
+
+During my academic journey, I developed a deep interest in Artificial Intelligence, Machine Learning, and Full-Stack Development.
+I have gained significant hands-on experience with Python, TensorFlow, and OpenCV IN THE TEAM PROJECT, which we applied to build complex systems that bridge the gap between human emotions and technology. I became proficient in developing Convolutional Neural Networks (CNNs) for image processing and Long Short-Term Memory (LSTM) networks for sequential data analysis.
+
+
+One of my most significant achievements was my Capstone Project, titled 'Emotion-Based Music Recommendation System'. In this project, I was responsible for designing a hybrid recommendation model that integrated both Facial Emotion Recognition (FER) and Audio Emotion Recognition (AER). My role involved:
+
+Developing a CNN-based pipeline to analyze facial expressions like smiles or frowns from real-time video feeds.
+
+
+Implementing an LSTM(LONG SHORT-TERM MEMORY) network to extract and classify emotional cues from vocal properties such as pitch, tone, and intensity.
+
+WE Achieved an impressive accuracy of 89% for facial emotion identification and 85% for audio detection, ensuring a robust and reliable user experience.
+
+This project was a major milestone for me  AND MY GROUP as it helped me master the end-to-end development lifecycle—from preprocessing large-scale datasets to integrating backend services. More importantly, it taught me how to solve real-world problems through teamwork and innovative system design.
+I consider myself a quick learner, self-motivated, and detail-oriented. I enjoy the challenge of learning new technologies and applying them to build impactful, practical solutions. I am now looking for an opportunity where I can apply my technical skills in AI and software development, learn from experienced professionals, and contribute to the growth of our organization.
