@@ -1,1 +1,1 @@
-1. 1/11 -> Added video about week3 chapter1
+1. 1/11 -> added 11janspeech.mp4 by using git lfs
